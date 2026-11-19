@@ -1,0 +1,8 @@
+opencv-python
+numpy
+torch
+mss
+pywin32
+scipy
+ultralytics
+pytesseract
